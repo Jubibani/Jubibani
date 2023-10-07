@@ -9,12 +9,14 @@ this is where i realized that i love to build and fix things.
   Cyber Security
 
 - 🌱 I’m currently learning ...
-   Game Development:
+   1)Game Development:
     Godot
-   Web Development:
+   2)Web Development:
     Html Css
     Git
     JavaScript
+  3) Mobile Application Development:
+    Flutter
 
 <!---
 Jubibani/Jubibani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
