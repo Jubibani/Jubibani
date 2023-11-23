@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg)
 <h1 align="center">Hi 👋, I'm Jubibani</h1>
 <h3 align="center">Christopher Jiovanni Alambra Orpilla or "Jubibani"</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jubibani majors in Web development and he aims to specialize
+<p>Jubibani majors in Web development and he aims to specialize
 on front-end development and hopes to progress to back-end development and finally to full-stack development.
 With a background in digital arts and  traditional arts, he is also interested in Game Development and App Development.
 He is working on some small projects to expand his skills and polish his crafts whilst also getting his degree at the University of the Cordilleras.
