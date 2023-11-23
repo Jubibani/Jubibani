@@ -1,14 +1,15 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg)
 <h1 align="center">Hi 👋, I'm Jubibani</h1>
-<h3 align="center">Christopher Jiovanni Alambra Orpilla or "Jubibani" majors in Web development and he aims for specializing
+<h3 align="center">Christopher Jiovanni Alambra Orpilla or "Jubibani"</h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jubibani majors in Web development and he aims to specialize
 on front-end development and hopes to progress to back-end development and finally to full-stack development.
 With a background in digital arts and  traditional arts, he is also interested in Game Development and App Development.
 He is working on some small projects to expand his skills and polish his crafts whilst also getting his degree at the University of the Cordilleras.
-
+<br>
 He might not have a bright brain but he always has his two strongest remaining brain cells with him. 
 In his spare time, he calls it his 'mental aid station'.
-
-Jubibani enjoys reading and writing, drawing sketches, playing games, and likes to jog.</h3>
+<br>
+Jubibani enjoys reading and writing, drawing sketches, playing games, and likes to jog.</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubibani&label=Profile%20views&color=0e75b6&style=flat" alt="jubibani" /> </p>
 
