@@ -11,9 +11,9 @@ Jubibani enjoys reading and writing, drawing sketches, playing games, and likes 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubibani&label=Profile%20views&color=0e75b6&style=flat" alt="jubibani" /> </p>
 
-- 🔭 I’m currently working on **Flutter, Godot**
+- 🔭 I’m currently working on **Flutter, Godot, Javascript**
 
-- 🌱 I’m currently learning **Godot, Flutter, Javascript**
+- 🌱 I’m currently learning **Godot, Flutter, Javascript, Automation, Chrome Extensions, Scripting**
 
 - 👯 I’m looking to collaborate on [my website](https://github.com/Jubibani/Jubibani.github.io)
 
