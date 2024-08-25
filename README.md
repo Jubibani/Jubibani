@@ -15,7 +15,9 @@ Jubibani enjoys reading and writing, drawing sketches, playing games, and likes 
 
 - 🌱 currently learning **Godot, Flutter, Javascript, Automation, Chrome Extensions, Scripting**
 
-- 📫 email: **strawberryloli3@gmail.com**
+- 📫 Professional email: **christopher.j.orpilla@gmail.com**
+
+- 📫 Gamer email: **strawberryloli3@gmail.com**
 
 - 📱 follow me on Twitter @Ichigokyuuun 
 
