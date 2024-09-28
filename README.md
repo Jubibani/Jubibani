@@ -13,7 +13,7 @@ Jubibani enjoys reading and writing, drawing sketches, playing games, and likes 
 
 - 🔭 currently working on **Flutter, Godot, Javascript**
 
-- 🌱 currently learning **Godot, Flutter, Javascript, Automation, Chrome Extensions, Scripting**
+- 🌱 currently learning **Game Development, App Development , Web Development**
 
 - 📫 Professional email: **christopher.j.orpilla@gmail.com**
 
