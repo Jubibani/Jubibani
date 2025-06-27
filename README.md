@@ -17,8 +17,6 @@ Jubibani enjoys reading and writing, drawing sketches, playing games, and likes 
 
 - 📫 Professional email: **christopher.j.orpilla@gmail.com**
 
-- 📫 Gamer email: **strawberryloli3@gmail.com**
-
 - 📱 follow me on Twitter @Ichigokyuuun 
 
 - ⚡ Fun fact **I love Coffee, Also David Goggins!**
